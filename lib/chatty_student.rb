@@ -9,7 +9,7 @@ class ChattyStudent < Student
     super
     p = "Pick me!"
     10.times do |p|
-      puts "Pick me!"
+      puts p
     end
   end
 
